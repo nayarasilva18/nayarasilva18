@@ -3,7 +3,7 @@
 
 - 🔭 Hobbies: Dar um rolê de skate e assistir series.
 - 🌱 Formação: Participante da 7ª Edição do Programa Starter Full Stack Web Developer na Growdev e curso técnica de logística no SENAI.
-- 👨‍💻 Experiência profissionais:Trabalhei com vendas autônomas, babá e garçonete e atualmente sou estudante apenas.
+- 👨‍💻 Experiência profissionais:Trabalhei com vendas autônomas, babá e garçonete e atualmente sou apenas estudante.
 - 📫🤔 Tecnologias favoritas: HTML, CSS e Javascript
 - 📚 O que está estudando atualmente: Desenvolvimento de Aplicações Web
 - 📫 Como me encontrar: <a href="https://www.linkedin.com/in/nayara-silva-9364b31b9/">LinkedIn</a>
