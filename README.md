@@ -1,5 +1,5 @@
 ### Olá pessoal!🙃
-<p> Me chamo <strong> Nayara Cerqueira Silva</strong> 😁 </p>
+<p> Me chamo <strong> Nayara Cerqueira Silva</strong></p>
 
 - 🛹 Hobbies: Dar um rolê de skate e assistir series.
 - 🌱 Formação: Participante da 7ª Edição do Programa Starter Full Stack Web Developer na Growdev e curso técnica de logística no SENAI.
